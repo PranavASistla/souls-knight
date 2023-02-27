@@ -10,9 +10,13 @@ Mouse/Keyboard and Controller
 Medieval Europe / Dark Fantasy 
 ### Tech Stack
 -Unity
+
 -FL Studio
+
 -Blender
+
 -Procreate
+
 ### Platform:
 Steam
 ### MVP Game Moment:
@@ -35,7 +39,11 @@ Inventory/loot/items
 
 ## Reference Games
 -Demons' Souls
+
 -Dark Souls Remastered
+
 -Dark Souls 3
+
 -Sekiro
+
 -Dead Cells
