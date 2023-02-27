@@ -9,10 +9,10 @@ Mouse/Keyboard and Controller
 ### Thematic Setting:
 Medieval Europe / Dark Fantasy 
 ### Tech Stack
-Unity
-FL Studio
-Blender
-Procreate
+-Unity
+-FL Studio
+-Blender
+-Procreate
 ### Platform:
 Steam
 ### MVP Game Moment:
@@ -34,8 +34,8 @@ Dialogue System
 Inventory/loot/items
 
 ## Reference Games
-Demons' Souls
-Dark Souls Remastered
-Dark Souls 3
-Sekiro
-Dead Cells
+-Demons' Souls
+-Dark Souls Remastered
+-Dark Souls 3
+-Sekiro
+-Dead Cells
